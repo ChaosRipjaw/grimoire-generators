@@ -1,0 +1,8 @@
+SevenCirclesWarGOLD
+Alteon
+99199
+sevencircleswar
+Enter,Spawn,r2,Top,r3,Top
+%xt%zm%aggroMon%69420%1%2%3%4%5%6%
+Treasure Chest,Bone Dust,Dark Energy
+7980,7981
